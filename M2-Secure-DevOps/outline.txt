@@ -1,0 +1,4 @@
+Python Essentials
+DevOps Foundations
+DevOps Scenarios
+Zero-Trust Investigation Capstone
